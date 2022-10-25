@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documentos\\C.NET-\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj": {}
+    "C:\\Users\\lucas\\OneDrive - Fundacao Santo Andre\\C# .NET\\operadorDeAtribuicao\\operadorDeAtribuicao\\operadorDeAtribuicao.csproj": {}
   },
   "projects": {
-    "D:\\Documentos\\C.NET-\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj": {
+    "C:\\Users\\lucas\\OneDrive - Fundacao Santo Andre\\C# .NET\\operadorDeAtribuicao\\operadorDeAtribuicao\\operadorDeAtribuicao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documentos\\C.NET-\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
-        "projectName": "SaidaDeDados",
-        "projectPath": "D:\\Documentos\\C.NET-\\SaidaDeDados\\SaidaDeDados\\SaidaDeDados.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive - Fundacao Santo Andre\\C# .NET\\operadorDeAtribuicao\\operadorDeAtribuicao\\operadorDeAtribuicao.csproj",
+        "projectName": "operadorDeAtribuicao",
+        "projectPath": "C:\\Users\\lucas\\OneDrive - Fundacao Santo Andre\\C# .NET\\operadorDeAtribuicao\\operadorDeAtribuicao\\operadorDeAtribuicao.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Documentos\\C.NET-\\SaidaDeDados\\SaidaDeDados\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive - Fundacao Santo Andre\\C# .NET\\operadorDeAtribuicao\\operadorDeAtribuicao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

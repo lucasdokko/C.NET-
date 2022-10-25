@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = SaidaDeDados
-build_property.ProjectDir = D:\Documentos\C.NET-\SaidaDeDados\SaidaDeDados\
+build_property.RootNamespace = operadorDeAtribuicao
+build_property.ProjectDir = C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\

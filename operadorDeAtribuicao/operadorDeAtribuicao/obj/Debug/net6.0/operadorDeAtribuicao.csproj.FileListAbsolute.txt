@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\bin\Debug\net6.0\operadorDeAtribuicao.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\bin\Debug\net6.0\operadorDeAtribuicao.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\bin\Debug\net6.0\operadorDeAtribuicao.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\bin\Debug\net6.0\operadorDeAtribuicao.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\bin\Debug\net6.0\operadorDeAtribuicao.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\refint\operadorDeAtribuicao.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\operadorDeAtribuicao.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadorDeAtribuicao\operadorDeAtribuicao\obj\Debug\net6.0\ref\operadorDeAtribuicao.dll
