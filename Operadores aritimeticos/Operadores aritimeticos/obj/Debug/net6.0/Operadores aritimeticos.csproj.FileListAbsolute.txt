@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\bin\Debug\net6.0\Operadores aritimeticos.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\bin\Debug\net6.0\Operadores aritimeticos.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\bin\Debug\net6.0\Operadores aritimeticos.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\bin\Debug\net6.0\Operadores aritimeticos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\bin\Debug\net6.0\Operadores aritimeticos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\refint\Operadores aritimeticos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\Operadores aritimeticos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores aritimeticos\Operadores aritimeticos\obj\Debug\net6.0\ref\Operadores aritimeticos.dll
