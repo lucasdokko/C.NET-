@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\bin\Debug\net6.0\AtvsaindaDeDados.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\bin\Debug\net6.0\AtvsaindaDeDados.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\bin\Debug\net6.0\AtvsaindaDeDados.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\bin\Debug\net6.0\AtvsaindaDeDados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\bin\Debug\net6.0\AtvsaindaDeDados.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\refint\AtvsaindaDeDados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\AtvsaindaDeDados.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\AtvsaindaDeDados\AtvsaindaDeDados\obj\Debug\net6.0\ref\AtvsaindaDeDados.dll
