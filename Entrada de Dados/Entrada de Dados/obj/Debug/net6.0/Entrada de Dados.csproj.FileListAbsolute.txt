@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\bin\Debug\net6.0\Entrada de Dados.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\bin\Debug\net6.0\Entrada de Dados.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\bin\Debug\net6.0\Entrada de Dados.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\bin\Debug\net6.0\Entrada de Dados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\bin\Debug\net6.0\Entrada de Dados.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\refint\Entrada de Dados.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\Entrada de Dados.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de Dados\Entrada de Dados\obj\Debug\net6.0\ref\Entrada de Dados.dll
