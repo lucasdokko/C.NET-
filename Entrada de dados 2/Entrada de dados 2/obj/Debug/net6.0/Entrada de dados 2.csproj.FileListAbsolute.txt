@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\bin\Debug\net6.0\Entrada de dados 2.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\bin\Debug\net6.0\Entrada de dados 2.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\bin\Debug\net6.0\Entrada de dados 2.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\bin\Debug\net6.0\Entrada de dados 2.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\bin\Debug\net6.0\Entrada de dados 2.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\refint\Entrada de dados 2.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\Entrada de dados 2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Entrada de dados 2\Entrada de dados 2\obj\Debug\net6.0\ref\Entrada de dados 2.dll
