@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\bin\Debug\net6.0\conversãoImplicitaeCasting.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\bin\Debug\net6.0\conversãoImplicitaeCasting.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\bin\Debug\net6.0\conversãoImplicitaeCasting.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\bin\Debug\net6.0\conversãoImplicitaeCasting.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\bin\Debug\net6.0\conversãoImplicitaeCasting.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\refint\conversãoImplicitaeCasting.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\conversãoImplicitaeCasting.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\conversãoImplicitaeCasting\conversãoImplicitaeCasting\obj\Debug\net6.0\ref\conversãoImplicitaeCasting.dll
