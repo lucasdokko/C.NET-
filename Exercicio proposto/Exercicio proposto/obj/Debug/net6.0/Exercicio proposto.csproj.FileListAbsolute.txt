@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\bin\Debug\net6.0\Exercicio proposto.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\bin\Debug\net6.0\Exercicio proposto.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\bin\Debug\net6.0\Exercicio proposto.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\bin\Debug\net6.0\Exercicio proposto.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\bin\Debug\net6.0\Exercicio proposto.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\refint\Exercicio proposto.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\Exercicio proposto.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio proposto\obj\Debug\net6.0\ref\Exercicio proposto.dll
