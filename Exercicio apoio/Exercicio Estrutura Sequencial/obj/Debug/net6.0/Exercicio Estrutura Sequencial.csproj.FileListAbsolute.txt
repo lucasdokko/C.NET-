@@ -1,0 +1,23 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\bin\Debug\net6.0\Exercicio Estrutura Sequencial.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\bin\Debug\net6.0\Exercicio Estrutura Sequencial.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\bin\Debug\net6.0\Exercicio Estrutura Sequencial.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\bin\Debug\net6.0\Exercicio Estrutura Sequencial.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\bin\Debug\net6.0\Exercicio Estrutura Sequencial.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\refint\Exercicio Estrutura Sequencial.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercicio proposto\Exercicio Estrutura Sequencial\obj\Debug\net6.0\ref\Exercicio Estrutura Sequencial.dll
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.csproj.AssemblyReference.cache
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.AssemblyInfoInputs.cache
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.AssemblyInfo.cs
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.csproj.CoreCompileInputs.cache
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.dll
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\refint\Exercicio Estrutura Sequencial.dll
+D:\Documentos\C.NET-\Exercicio apoio\Exercicio Estrutura Sequencial\obj\Debug\net6.0\Exercicio Estrutura Sequencial.pdb
