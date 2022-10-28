@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\bin\Debug\net6.0\Operadores lógicos.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\bin\Debug\net6.0\Operadores lógicos.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\bin\Debug\net6.0\Operadores lógicos.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\bin\Debug\net6.0\Operadores lógicos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\bin\Debug\net6.0\Operadores lógicos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\refint\Operadores lógicos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\Operadores lógicos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Operadores lógicos\Operadores lógicos\obj\Debug\net6.0\ref\Operadores lógicos.dll
