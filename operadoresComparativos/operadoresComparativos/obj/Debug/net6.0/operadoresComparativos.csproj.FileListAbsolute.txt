@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\bin\Debug\net6.0\operadoresComparativos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\refint\operadoresComparativos.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\operadoresComparativos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\operadoresComparativos\operadoresComparativos\obj\Debug\net6.0\ref\operadoresComparativos.dll
