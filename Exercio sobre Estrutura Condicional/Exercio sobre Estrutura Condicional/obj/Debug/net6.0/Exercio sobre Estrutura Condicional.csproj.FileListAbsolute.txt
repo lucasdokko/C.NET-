@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\bin\Debug\net6.0\Exercio sobre Estrutura Condicional.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\bin\Debug\net6.0\Exercio sobre Estrutura Condicional.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\bin\Debug\net6.0\Exercio sobre Estrutura Condicional.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\bin\Debug\net6.0\Exercio sobre Estrutura Condicional.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\bin\Debug\net6.0\Exercio sobre Estrutura Condicional.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\refint\Exercio sobre Estrutura Condicional.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\Exercio sobre Estrutura Condicional.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Exercio sobre Estrutura Condicional\Exercio sobre Estrutura Condicional\obj\Debug\net6.0\ref\Exercio sobre Estrutura Condicional.dll
