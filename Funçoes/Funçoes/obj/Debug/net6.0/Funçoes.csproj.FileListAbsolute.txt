@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\bin\Debug\net6.0\Funçoes.exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\bin\Debug\net6.0\Funçoes.deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\bin\Debug\net6.0\Funçoes.runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\bin\Debug\net6.0\Funçoes.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\bin\Debug\net6.0\Funçoes.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\refint\Funçoes.dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\Funçoes.genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Funçoes\Funçoes\obj\Debug\net6.0\ref\Funçoes.dll
