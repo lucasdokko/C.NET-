@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Estrutura repetitiv enquanto (while)/1.0.0": {
+        "runtime": {
+          "Estrutura repetitiv enquanto (while).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Estrutura repetitiv enquanto (while)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

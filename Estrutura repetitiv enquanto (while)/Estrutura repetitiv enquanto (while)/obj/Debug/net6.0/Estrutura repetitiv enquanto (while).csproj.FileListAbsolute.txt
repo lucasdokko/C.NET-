@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\bin\Debug\net6.0\Estrutura repetitiv enquanto (while).exe
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\bin\Debug\net6.0\Estrutura repetitiv enquanto (while).deps.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\bin\Debug\net6.0\Estrutura repetitiv enquanto (while).runtimeconfig.json
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\bin\Debug\net6.0\Estrutura repetitiv enquanto (while).dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\bin\Debug\net6.0\Estrutura repetitiv enquanto (while).pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).AssemblyInfo.cs
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\refint\Estrutura repetitiv enquanto (while).dll
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).pdb
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\Estrutura repetitiv enquanto (while).genruntimeconfig.cache
+C:\Users\lucas\OneDrive - Fundacao Santo Andre\C# .NET\Estrutura repetitiv enquanto (while)\Estrutura repetitiv enquanto (while)\obj\Debug\net6.0\ref\Estrutura repetitiv enquanto (while).dll
